@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> في عيوني نار الشوق تزيد
+> روحي تنادي لكِ من بعيد
+> أنتِ الأمل في ليل وحيد
+> يا حب عمري وكل ما أريد
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
